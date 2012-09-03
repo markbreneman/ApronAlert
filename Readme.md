@@ -13,7 +13,7 @@ A general overview of the hardware technology can be found here;
 
 To get up and running codewise install, the basics: [Arduino][1] and [Python][2].  Then install the additional Python libraries found in the Additional Assets folder(unzip each archive then in terminal navigate to each folder(cd) and type python setup.py install).
 
-Next register for a twitter developer account.[3]
+Next register for a [Twitter Developer Account][3].
 
 After going through the developer registration process copy down the access key and OAuth info. Next open up the ApronAlert.py code in the Python folder and edit it accordingly to your developer keys. Save this file.
 
