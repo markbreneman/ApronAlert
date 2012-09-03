@@ -21,7 +21,7 @@ Then upload each Arduino sketch to the appropriate boards, one being the receive
 
 Lastly in terminal run the Apron Alert.py file using the command Python ApronAlert.py.  When this file is running the circuit will be live and posting to Twitter when the circuit is closed.
 
-[0]http://smartinteractionlab.com/apron-alert-internet-of-things-experiment/
-[1]http://www.arduino.cc/
-[2]http://docs.python.org/install/index.html
-[3]https://dev.twitter.com/
+[0]:http://smartinteractionlab.com/apron-alert-internet-of-things-experiment/
+[1]:http://www.arduino.cc/
+[2]:http://docs.python.org/install/index.html
+[3]:https://dev.twitter.com/
